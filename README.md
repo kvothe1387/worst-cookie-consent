@@ -2,6 +2,10 @@
 
 A satirical web project that parodies deceptive online marketing tactics and sketchy data collection practices commonly found on dubious coding course websites.
 
+<img src="./screenshots/screenshot1.png" width="300" height="300"/>
+<img src="./screenshots/screenshot2.png" width="300" height="300"/>
+<img src="./screenshots/screenshot3.png" width="300" height="300"/>
+
 ## 🎭 About This Project
 
 This is a **parody/educational project** that demonstrates:

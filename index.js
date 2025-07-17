@@ -49,6 +49,6 @@ consentForm.addEventListener('submit', function (e) {
         </div>
      `
     modalCloseBtn.disabled = false
-  }, 3000)
+  }, 9000)
 
 })
