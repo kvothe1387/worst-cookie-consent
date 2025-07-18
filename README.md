@@ -6,6 +6,10 @@ A satirical web project that parodies deceptive online marketing tactics and ske
 <img src="./screenshots/screenshot2.png" width="300" height="300"/>
 <img src="./screenshots/screenshot3.png" width="300" height="300"/>
 
+## 📝 Live Demo
+
+Check out the worst cookie consent: [https://kvothe1387.github.io/worst-cookie-consent/](https://kvothe1387.github.io/worst-cookie-consent/)
+
 ## 🎭 About This Project
 
 This is a **parody/educational project** that demonstrates:
